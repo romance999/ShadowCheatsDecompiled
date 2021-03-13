@@ -1,0 +1,174 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F6EED624-ED22-4BFE-93E0-36592971A377}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ShadowCheats</RootNamespace>
+    <AssemblyName>ShadowCheats</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+  </ItemGroup>
+  <ItemGroup>
+    <AppDesigner Include="Properties\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="#=z7U7jp8pICIw4GATappAAZ_$Yrifbq7ux2PRmkwq5FZYPq1SQmw==.cs" />
+    <Compile Include="-Module-.cs" />
+    <Compile Include="Globals.cs" />
+    <Compile Include="Module.cs" />
+    <Compile Include="pc1eOx2WJVV_600164785.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="TROLLICUS__\#=q$SYkdyTmafXuU$TQ6lHv3Azd2durq$Qdx3chLNH$OGw=.cs" />
+    <Compile Include="TROLLICUS__\#=q$vSkDa3Mji4xCpz7q61yxN9ohf90b4BSUMlMYCqxJFs=.cs" />
+    <Compile Include="TROLLICUS__\#=q1UdDXeJwdEhg452pUm$BX0mWPFm6w8rUuHrnF3Fuslw=.cs" />
+    <Compile Include="TROLLICUS__\#=q1UdDXeJwdEhg452pUm$BX3Q88CoFq3Im6BGnKPXnsOs=.cs" />
+    <Compile Include="TROLLICUS__\#=q1UdDXeJwdEhg452pUm$BX_FPaJNVnWi8LBDikYi2beI=.cs" />
+    <Compile Include="TROLLICUS__\#=q1Xu3kOUeFj9pGmWsH80aHMRL9JCWX2CE7RYtrdleMvU=.cs" />
+    <Compile Include="TROLLICUS__\#=q30I7tRroI16SHr7YSxX5Sp2fNCEMB_WBmcGCvrVd1Ng=.cs" />
+    <Compile Include="TROLLICUS__\#=q3YmA9J4Ih4mJgGYtKkbFOzVFAoN8UpdtQeVB7j2rDho=.cs" />
+    <Compile Include="TROLLICUS__\#=q4la130MCry8NtqEyJUpJVyui7raKXX89wt$El8B9nSo=.cs" />
+    <Compile Include="TROLLICUS__\#=q58yTMwrwQiWhB7cp_xNo_rDJmmQbIFnzAEbnXCsD7vk=.cs" />
+    <Compile Include="TROLLICUS__\#=q5C2iau46deY425lF_fWe8A8L62paMr7tTyO$dDcCTjE=.cs" />
+    <Compile Include="TROLLICUS__\#=q6pdq00PkTschnXgZ4_pqmonZXpgR90pj2oBAr7MJFB8=.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TROLLICUS__\#=q6pdq00PkTschnXgZ4_pqmonZXpgR90pj2oBAr7MJFB8=.Designer.cs">
+      <DependentUpon>#=q6pdq00PkTschnXgZ4_pqmonZXpgR90pj2oBAr7MJFB8=.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TROLLICUS__\#=q71Pn7elr3BqHX_MHhOkfKDCyBZ52oehoZZBiPkby3pw=.cs" />
+    <Compile Include="TROLLICUS__\#=q71Pn7elr3BqHX_MHhOkfKO_5JtqyiAn7EoLP2qcNqFQ=.cs" />
+    <Compile Include="TROLLICUS__\#=q7KLabDIz8RNv98ckeHzHAM_c0R5$nFujA6sJWy0uXSU=.cs" />
+    <Compile Include="TROLLICUS__\#=q7wAoj4Sa0JZMIpFCR0BzQgfCCtC0OiEQ3YNPmPq1re8=.cs" />
+    <Compile Include="TROLLICUS__\#=q7wAoj4Sa0JZMIpFCR0BzQj93e0auGhobfd8I14SPhiY=.cs" />
+    <Compile Include="TROLLICUS__\#=q7wAoj4Sa0JZMIpFCR0BzQmsjlVMgyv6AVED2A02Ja6Q=.cs" />
+    <Compile Include="TROLLICUS__\#=q81uNkxcf9rBnno3o7_dyPoEkr$U16bSvHX4Vb__9NAs=.cs" />
+    <Compile Include="TROLLICUS__\#=q8fo2JvmIXLG54hhdeXZJczNWJLXr9Zg7jPj0kfJvLK8=.cs" />
+    <Compile Include="TROLLICUS__\#=q9V3fJaTT$YDuJB5nntZj6vQs873EmRGplMUTSL0cwJ4=.cs" />
+    <Compile Include="TROLLICUS__\#=qAruTnsP36ipQZkmc9OhkvbDjC6GgPg9KJ3w$KQoWq9o=.cs" />
+    <Compile Include="TROLLICUS__\#=qB0jVHqfzsSho5sM5dqos9hMA6lgPtpz$oDsozd9jrhA=.cs" />
+    <Compile Include="TROLLICUS__\#=qB6ecIG3RpqKfIxySRXDpgzCpl7yX_TdDm_yAoDdUYhI=.cs" />
+    <Compile Include="TROLLICUS__\#=qbDySYICHv_2XFXxM$CVN7wpLyhSrjtTabjJzFYPqtYE=.cs" />
+    <Compile Include="TROLLICUS__\#=qbimBt6PCctplrDRiVKEqGESQyih4EX7Mkh7DLEF8Bmo=.cs" />
+    <Compile Include="TROLLICUS__\#=qBlCC6IlTxpZimHNPlX25S0lQuhQtw2Q36mfw$8r$kvlKvfA9B8QyDWdEM.cs" />
+    <Compile Include="TROLLICUS__\#=qbUR7yB4173h7Mf91ihovYYudFBWF4csU9n5S9D9P5Pk=.cs" />
+    <Compile Include="TROLLICUS__\#=qBvpXrtWoqxtthiYSAEVi8xZLetusHm9ONc3eCfNDzNM=.cs" />
+    <Compile Include="TROLLICUS__\#=qBvx9lk3bP6MgnC8juKl_EXaFoWiaBmPbTTf$ba3Aybc=.cs" />
+    <Compile Include="TROLLICUS__\#=qC4mBOabdGiiovP8Wmy_x$Ilf8UHOPT5c8pLBrbyQXiE=.cs" />
+    <Compile Include="TROLLICUS__\#=qC885BjgshmUmbziNwpFn5lozkviC1FQSeYMra7aQp5M=.cs" />
+    <Compile Include="TROLLICUS__\#=qCK$o6VuHJbcGGtIYSv4vki8IlXVOvU80Y8NpbyhD3uw=.cs" />
+    <Compile Include="TROLLICUS__\#=qCK$o6VuHJbcGGtIYSv4vknL3JBHOxuAODorlTC5jNws=.cs" />
+    <Compile Include="TROLLICUS__\#=qCK$o6VuHJbcGGtIYSv4vksC0T7keTFP_U17jaDgP1hc=.cs" />
+    <Compile Include="TROLLICUS__\#=qedsMINbYX7kbMynhfRPIbmSxGxTgTRQXjiZ6Lp5cGWw=.cs" />
+    <Compile Include="TROLLICUS__\#=qELPTQGkuPJM3q7Or3DXuzVvioUZbsRIeRa03KobqwBA=.cs" />
+    <Compile Include="TROLLICUS__\#=qFRSFO3aqCmgGeSiinapoNkhtV5naVPK2sANfHf52oRg=.cs" />
+    <Compile Include="TROLLICUS__\#=qg2hwYt8x$gfE1acUyGLD3kvoMcrAOvRAn_UoXGoZzkg=.cs" />
+    <Compile Include="TROLLICUS__\#=qGPs5s2SyGdsbHRdAnwLg1SRHwUAebcn9wh$KB6EhUhI=.cs" />
+    <Compile Include="TROLLICUS__\#=qhdWeVPGbN_NikEVw1EV$CYBlc2dr5uHJwrE9B4e8Uk0=.cs" />
+    <Compile Include="TROLLICUS__\#=qHtAY4mU3OuH8C$HXtF95XM5nCI9dc$IQXBGsgmqFNL0=.cs" />
+    <Compile Include="TROLLICUS__\#=qi$0Z7V2CN75MQlBHuO3mTdUqG8ctEMPQCrJ6v1Dxu_g=.cs" />
+    <Compile Include="TROLLICUS__\#=qi$0Z7V2CN75MQlBHuO3mTfR9XvQVBoZPG4wduMslZNU=.cs" />
+    <Compile Include="TROLLICUS__\#=qi9bm2pnZNI5h2sTVXMa994$oqfYBIoA0gk1T4laPFQs=.cs" />
+    <Compile Include="TROLLICUS__\#=qIbEJqBs1nLqdftGAM3Y_Tjk3Os5eNP5JtSKbI$ROU9o=.cs" />
+    <Compile Include="TROLLICUS__\#=qiK7UHncpOIZQHJvf$UH6nCVzVhVfeLpn13v_T1Q_CsQ=.cs" />
+    <Compile Include="TROLLICUS__\#=qiK7UHncpOIZQHJvf$UH6nN2c$AfX$k4r6dTWPSfJyyA=.cs" />
+    <Compile Include="TROLLICUS__\#=qIq1QkuM96xJ_hFeLX6w22G5y4BbTsFNwq4wSOEx3zEo=.cs" />
+    <Compile Include="TROLLICUS__\#=qiuT5mu$Z20u1ECl5wWdTSbUrXvStV_BWBKamWOPRgMw=.cs" />
+    <Compile Include="TROLLICUS__\#=qJeNB_PuNO2hmZG2uFaVHZ_NYU3z_OO$62P3pCbXb1MA=.cs" />
+    <Compile Include="TROLLICUS__\#=qJu2bKK999FIPPQs0U_dK3SL7g4oEDT7PjBTY6_d2b3E=.cs" />
+    <Compile Include="TROLLICUS__\#=qK88xgZhzUTbQmcPM_EwZT1TLmlY9W5Kw1sh1MRrUjAI=.cs" />
+    <Compile Include="TROLLICUS__\#=qkH89MlIxsDMNodDW_wO9kW7wPmOvV4N20YOqcmzFhD8=.cs" />
+    <Compile Include="TROLLICUS__\#=qL2rqthoFFa9ChBE_yS3p8ZrTF26dHqYvMulByU9O4aM=.cs" />
+    <Compile Include="TROLLICUS__\#=qL4GVeMf3RteTRWeQLvkw7Ij3$KxjAKUeDAAp6$VD_bU=.cs" />
+    <Compile Include="TROLLICUS__\#=qLQ1Tr8sC3DsxefDYO2wzMVZMi5sS604Ky2s3WXsUDlM=.cs" />
+    <Compile Include="TROLLICUS__\#=qMAOsmKtyR1wtE2Be$mILf3UNwXX3Nl$Zk$7rVXlev2A=.cs" />
+    <Compile Include="TROLLICUS__\#=qmd1e9gXwSDuURXFqrHWXNju2P$I1OMp$pU2L5iNsWdo=.cs" />
+    <Compile Include="TROLLICUS__\#=qMkg9Kv56DhUlVRx6R16V_tqPhDcplxea1tlpJddAPuc=.cs" />
+    <Compile Include="TROLLICUS__\#=qMkg9Kv56DhUlVRx6R16V_uHEF8aMHUMGAsHXi2UczYY=.cs" />
+    <Compile Include="TROLLICUS__\#=qMSRQOpPn48H9NzwUFVnO$P61Xi0g7Go2V8VLb9KFUGw=.cs" />
+    <Compile Include="TROLLICUS__\#=qMyzFBaiLtLsi2j4C2jhS1jtqS2mtGC1QqvguUcpBevw=.cs" />
+    <Compile Include="TROLLICUS__\#=qofpUHD_wAKXQN7xRglixZVZfQrSfkgxxmJIy1GerhhA=.cs" />
+    <Compile Include="TROLLICUS__\#=qoshoUPwUld$7AjxduKPqg7ICUZgWpBrmMdG3f8bILcc=.cs" />
+    <Compile Include="TROLLICUS__\#=qoy_6CggWbhczHnidS5JoP3rShz9_ssGg11c8m2aqkCU=.cs" />
+    <Compile Include="TROLLICUS__\#=qpAMY0ouZl2qBu6TwQIxoX2XDIGUck57mwqVsgeEy4eU=.cs" />
+    <Compile Include="TROLLICUS__\#=qPKdM0pNBr2ZFteUBIDftQm3YicWdoviS1zuJQCJPkF8=.cs" />
+    <Compile Include="TROLLICUS__\#=qPmyVsV7oVp9snqbugcFD0Cbojj2ChmGSFRy802rCwOY=.cs" />
+    <Compile Include="TROLLICUS__\#=qPVSW$660RLVa3Ie1H1BYQaerlANTSFeBErrmQsHSPoc=.cs" />
+    <Compile Include="TROLLICUS__\#=qPVSW$660RLVa3Ie1H1BYQZ1ucSE8sl1zlTyXv8G0vSI=.cs" />
+    <Compile Include="TROLLICUS__\#=qPW2duT9cUULcwctVEWhrVHhL2P_rlZecKjxLfjwWaGQ=.cs" />
+    <Compile Include="TROLLICUS__\#=qqra8axzHfPq26x1VRAsh_4So_msbx$dpoDRSZBTzIz8=.cs" />
+    <Compile Include="TROLLICUS__\#=qqwPkgIMD534pZvFiLDWzkNTqsz42I5ROj6gkNNHVHhw=.cs" />
+    <Compile Include="TROLLICUS__\#=qRjUmpwaw0amrt16bULoLgwSxz8vsuSrbIHWjw2XE2bI=.cs" />
+    <Compile Include="TROLLICUS__\#=qrovZaCqyXhO1wneNSBCEl2Ztm0AKQWT_n6y7OLJoZIE=.cs" />
+    <Compile Include="TROLLICUS__\#=qRRaWE5qPjnI9pZ9N991ftA5PGInDbZ3wl3QHkAuCv9Q=.cs" />
+    <Compile Include="TROLLICUS__\#=qsBfp2r8dvl7eglyjwqhiTvvBCIDztDO0rVncGwEwge4=.cs" />
+    <Compile Include="TROLLICUS__\#=qSm$D5xpb8TKW4oItexZcIWaq3o$XI0n0Awa$x2oAfgw=.cs" />
+    <Compile Include="TROLLICUS__\#=qtApqlIHc4cSySUpc3uGhx0Addkm7X3EyuhvNtussRWY=.cs" />
+    <Compile Include="TROLLICUS__\#=qTAY2hsSefxYQBF$KQVo2znQoOdPCtwnkbbHCaAD5UN4=.cs" />
+    <Compile Include="TROLLICUS__\#=qtC4zeDWYHoMV9iOs8x9clmr7frVJzFddMXx4T6_A4jQ=.cs" />
+    <Compile Include="TROLLICUS__\#=qtC4zeDWYHoMV9iOs8x9cluUnVu8v8fmPRzpHB3FA5Os=.cs" />
+    <Compile Include="TROLLICUS__\#=qtkdPYZcWrOMgix1FkJfTpnoc38r1UbNuUXbsbMY2HiM=.cs" />
+    <Compile Include="TROLLICUS__\#=qtkdPYZcWrOMgix1FkJfTpu_Qxd5pTVK0rzQvmCYYIxo=.cs" />
+    <Compile Include="TROLLICUS__\#=qTOV0$QIvY3C5BjpGOO2vi1Qw2Ww7mQXQikVZbBkEm9A=.cs" />
+    <Compile Include="TROLLICUS__\#=qTZzsA0hw8yohjTM$6GSPU3_YE8NqKHpfV6RBA7lGVgA=.cs" />
+    <Compile Include="TROLLICUS__\#=qTZzsA0hw8yohjTM$6GSPU66XJ5V4F75$6_Vp1lJXj10=.cs" />
+    <Compile Include="TROLLICUS__\#=qTZzsA0hw8yohjTM$6GSPUzT883eJfqVEl_ASz51MWTc=.cs" />
+    <Compile Include="TROLLICUS__\#=qUwwQIDdLqJ36UYEaxEYvenCY1Fenofzb6bYtarLDrRg=.cs" />
+    <Compile Include="TROLLICUS__\#=quyzfQfqO1ZReiWBgO1KUEPkqO56yiO0$hab8_hs0yxM=.cs" />
+    <Compile Include="TROLLICUS__\#=qvaSxYXGdNKL4VPwGG3CV63_OEV9oOFx4__BtAfL2r4I=.cs" />
+    <Compile Include="TROLLICUS__\#=qVe$A5ZGvJ94fKNkY0AA6$E0KOBWGJG8LPWNuaLaqKoI=.cs" />
+    <Compile Include="TROLLICUS__\#=qVGFkc2f_sDgI3OzbRDZOcd1IQZZ7wq3$sdf7Wi$8hdI=.cs" />
+    <Compile Include="TROLLICUS__\#=qvzWmAieKMuf0XRgCVabZRy6Uxfg0SLuo$uUiY8yxLzQ=.cs" />
+    <Compile Include="TROLLICUS__\#=qWjiasS11KjDhD9Cxf8LxpSlMcPkTsss3CudK_QiDgrQ=.cs" />
+    <Compile Include="TROLLICUS__\#=qwVre8p4GLxf0a6255kU54yG7ThI$Z00mVyJKhJU2H_s=.cs" />
+    <Compile Include="TROLLICUS__\#=qwVre8p4GLxf0a6255kU54yla4IMinZNjIV6MKKqsGjw=.cs" />
+    <Compile Include="TROLLICUS__\#=qXbSTqJB$I8PRry904XHXcqltuMYzQX$z0AHmWlOsrQw=.cs" />
+    <Compile Include="TROLLICUS__\#=qXFlTUA3H$tLznDC7aWzu2zleUjFdjB9xfWZS2Uln5uk=.cs" />
+    <Compile Include="TROLLICUS__\#=qy19ntCTjkEw0Q6h2Gs$NpE2UiVNGTEflZCHpRlOSvgE=.cs" />
+    <Compile Include="TROLLICUS__\#=qy19ntCTjkEw0Q6h2Gs$NpHZ1zettU_JEbIe153lb9TA=.cs" />
+    <Compile Include="TROLLICUS__\#=qy19ntCTjkEw0Q6h2Gs$NpMBmXBRbrVg$B6OsjmrBgT0=.cs" />
+    <Compile Include="TROLLICUS__\#=qy19ntCTjkEw0Q6h2Gs$NpPlqtkreO05jaWb4HQLhTUM=.cs" />
+    <Compile Include="TROLLICUS__\#=qY7N8Wj9SDFcpEzobHjXaCcSVUdYyczFiZAEZXol1yxg=.cs" />
+    <Compile Include="TROLLICUS__\#=qyax0yqNfy5jwiJsaV30KYOylVPZYM$lhFBSvlLuuH1U=.cs" />
+    <Compile Include="TROLLICUS__\#=qZAVyVCTYdj4ubhafEk1O02cxtrnJ71AsR_Q1vIXN8RE=.cs" />
+    <Compile Include="TROLLICUS__\#=qZAVyVCTYdj4ubhafEk1O0zkfxmmo_rphmPO8cLRG0CY=.cs" />
+    <Compile Include="TROLLICUS__\#=qZBfaUyYKEZxHBp3l5_vDmvJoH3wquvoZS6dl0$yEn3U=.cs" />
+    <Compile Include="TROLLICUS__\#=qZnKJvYtAE4JaBwCFy7$95TclEgPDgi2_9N71Ei4whAA=.cs" />
+    <Compile Include="TROLLICUS__\#=zEbC0xw0Vfqu3G9azXQ==.cs" />
+    <Compile Include="TROLLICUS__\#=zZvsIH_m5zU40t3Jpvf8MWSY=.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="db4516587fca4b3ba45719cfcfc425c1" />
+    <EmbeddedResource Include="ef48eb988a7047a19e3cf8511b289926" />
+    <EmbeddedResource Include="​    ​" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
